@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" shape-rendering="crispEdges">
+  <rect width="1200" height="420" fill="#101329"/>
+  <rect x="0" y="0" width="1200" height="320" fill="#171B3A"/>
+  <!-- pixel stars -->
+  <g fill="#F4F0D7">
+    <rect x="82" y="48" width="8" height="8"/><rect x="166" y="91" width="8" height="8"/><rect x="310" y="42" width="8" height="8"/>
+    <rect x="452" y="77" width="8" height="8"/><rect x="588" y="40" width="8" height="8"/><rect x="730" y="83" width="8" height="8"/>
+    <rect x="870" y="48" width="8" height="8"/><rect x="1030" y="86" width="8" height="8"/><rect x="1122" y="38" width="8" height="8"/>
+    <rect x="252" y="130" width="8" height="8"/><rect x="660" y="137" width="8" height="8"/><rect x="956" y="143" width="8" height="8"/>
+  </g>
+  <g fill="#F7C873">
+    <rect x="940" y="70" width="16" height="8"/><rect x="932" y="78" width="8" height="16"/><rect x="956" y="78" width="8" height="16"/><rect x="940" y="94" width="16" height="8"/>
+  </g>
+  <!-- distant pixel skyline -->
+  <g fill="#24284D">
+    <rect x="0" y="222" width="1200" height="98"/>
+    <rect x="54" y="188" width="70" height="132"/><rect x="132" y="220" width="52" height="100"/>
+    <rect x="208" y="174" width="88" height="146"/><rect x="318" y="210" width="62" height="110"/>
+    <rect x="402" y="192" width="90" height="128"/><rect x="514" y="225" width="56" height="95"/>
+    <rect x="592" y="180" width="82" height="140"/><rect x="694" y="210" width="62" height="110"/>
+    <rect x="780" y="168" width="100" height="152"/><rect x="904" y="218" width="54" height="102"/>
+    <rect x="982" y="190" width="78" height="130"/><rect x="1080" y="212" width="72" height="108"/>
+  </g>
+  <g fill="#353963">
+    <rect x="70" y="208" width="8" height="8"/><rect x="94" y="208" width="8" height="8"/><rect x="224" y="194" width="8" height="8"/><rect x="248" y="194" width="8" height="8"/>
+    <rect x="422" y="210" width="8" height="8"/><rect x="446" y="210" width="8" height="8"/><rect x="614" y="198" width="8" height="8"/><rect x="638" y="198" width="8" height="8"/>
+    <rect x="804" y="186" width="8" height="8"/><rect x="828" y="186" width="8" height="8"/><rect x="1002" y="208" width="8" height="8"/><rect x="1026" y="208" width="8" height="8"/>
+  </g>
+  <!-- pixel ground -->
+  <rect x="0" y="320" width="1200" height="100" fill="#20283C"/>
+  <rect x="0" y="320" width="1200" height="8" fill="#69D6A6"/>
+  <g fill="#2F4052">
+    <rect x="40" y="352" width="24" height="8"/><rect x="72" y="376" width="40" height="8"/><rect x="176" y="344" width="32" height="8"/>
+    <rect x="360" y="368" width="24" height="8"/><rect x="470" y="344" width="40" height="8"/><rect x="684" y="376" width="32" height="8"/>
+    <rect x="832" y="344" width="24" height="8"/><rect x="1024" y="368" width="48" height="8"/><rect x="1130" y="344" width="24" height="8"/>
+  </g>
+  <!-- pixel avatar/character -->
+  <g transform="translate(845 202)">
+    <rect x="24" y="0" width="48" height="8" fill="#101329"/><rect x="16" y="8" width="64" height="8" fill="#101329"/>
+    <rect x="8" y="16" width="80" height="48" fill="#F0B98A"/><rect x="0" y="24" width="8" height="32" fill="#F0B98A"/><rect x="88" y="24" width="8" height="32" fill="#F0B98A"/>
+    <rect x="8" y="16" width="80" height="8" fill="#3A2B35"/><rect x="16" y="8" width="64" height="8" fill="#3A2B35"/>
+    <rect x="24" y="32" width="8" height="8" fill="#101329"/><rect x="64" y="32" width="8" height="8" fill="#101329"/><rect x="40" y="48" width="24" height="8" fill="#B85E62"/>
+    <rect x="8" y="64" width="80" height="8" fill="#A78BFA"/><rect x="0" y="72" width="96" height="48" fill="#7C65D8"/>
+    <rect x="16" y="80" width="16" height="8" fill="#B8A8FF"/><rect x="64" y="80" width="16" height="8" fill="#B8A8FF"/>
+    <rect x="16" y="120" width="24" height="16" fill="#111827"/><rect x="56" y="120" width="24" height="16" fill="#111827"/>
+  </g>
+  <!-- text panel -->
+  <rect x="68" y="112" width="710" height="152" fill="#101329" stroke="#69D6A6" stroke-width="4"/>
+  <rect x="84" y="128" width="12" height="12" fill="#69D6A6"/>
+  <text x="112" y="140" fill="#69D6A6" font-family="monospace" font-size="18" letter-spacing="3">PLAYER 01  /  KARAN PATIL</text>
+  <text x="104" y="190" fill="#F4F0D7" font-family="monospace" font-size="39" font-weight="700">PIXEL QUEST</text>
+  <text x="108" y="226" fill="#C8D1F0" font-family="monospace" font-size="17">LEARN  •  DESIGN  •  BUILD  •  REPEAT</text>
+  <text x="108" y="250" fill="#F7C873" font-family="monospace" font-size="12">LVL 01  /  STUDENT DEVELOPER</text>
+  <text x="72" y="398" fill="#A9B6D0" font-family="monospace" font-size="12" letter-spacing="2">PRESS START TO EXPLORE</text>
+</svg>
