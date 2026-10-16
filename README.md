@@ -1,67 +1,71 @@
 <!--
-  UIUX — neon studio theme
-  Uses GitHub-compatible Markdown, HTML, a local SVG banner, and shields.io badges.
+  UIUX — pixel quest theme
+  Retro pixel-art styling using GitHub-compatible Markdown, HTML, and a local SVG banner.
 -->
 
 <div align="center">
 
-<img src="./assets/neon-banner.svg" alt="Karan Patil — Curious by design" width="100%"/>
+<img src="./assets/pixel-banner.svg" alt="Pixel Quest — Karan Patil, student developer" width="100%"/>
 
 <br/>
 
-### A design playground for ideas, interfaces, and experiments.
+### A tiny pixel world for big ideas in design.
 
-[![Focus](https://img.shields.io/badge/FOCUS-UI%2FUX-22D3EE?style=for-the-badge&labelColor=111827)](https://github.com/karanpatil03/UIUX)
-[![Status](https://img.shields.io/badge/STATUS-LEARNING-A78BFA?style=for-the-badge&labelColor=111827)](https://github.com/karanpatil03/UIUX)
+**[ EXPLORE ]** · **[ EXPERIMENT ]** · **[ LEVEL UP ]**
 
-**Observe → Explore → Prototype → Refine**
+![Theme](https://img.shields.io/badge/THEME-PIXEL_QUEST-69D6A6?style=flat-square&labelColor=101329)
+![Focus](https://img.shields.io/badge/FOCUS-UI%2FUX-A78BFA?style=flat-square&labelColor=101329)
+![Mode](https://img.shields.io/badge/MODE-LEARNING-F7C873?style=flat-square&labelColor=101329)
 
 </div>
 
 ---
 
-## ◈ The studio
+## 🕹️ Welcome, player
 
-This repository is a growing workspace for exploring user interfaces and user experiences. It is intended for design practice, interface breakdowns, wireframes, prototypes, and notes about the decisions behind a design.
+This repository is my design practice zone: a place to explore interfaces, learn UX fundamentals, sketch ideas, and improve through small experiments.
 
-> Learning in public. Improving one iteration at a time.
+No finished-game claims here — just the work-in-progress journey, one level at a time.
 
-## ⌘ Current direction
+## 🎮 Current quests
 
-| Track | What it means |
-|:--|:--|
-| **Interface studies** | Notice layout, hierarchy, spacing, and visual patterns |
-| **UX thinking** | Ask what a user needs to do and where friction appears |
-| **Prototyping** | Turn ideas into flows and screen concepts |
-| **Reflection** | Record what worked, what didn't, and what to try next |
+| QUEST | OBJECTIVE | STATUS |
+|:--|:--|:--:|
+| **01** | Study layouts, spacing, hierarchy, and visual patterns | In progress |
+| **02** | Think through user goals, flows, and friction | In progress |
+| **03** | Turn ideas into wireframes and screen concepts | Planned |
+| **04** | Gather feedback and iterate on designs | Planned |
 
-## ✳ Design principles
+## 🧩 Inventory: design principles
 
 <div align="center">
 
-| CLARITY | CONSISTENCY | ACCESSIBILITY | ITERATION |
+| 🟩 CLARITY | 🟪 CONSISTENCY | 🟦 ACCESSIBILITY | 🟨 ITERATION |
 |:---:|:---:|:---:|:---:|
-| Make the next step obvious | Reuse familiar patterns | Design for more people | Test, learn, refine |
+| Make the next move clear | Keep patterns familiar | Include more people | Improve each build |
 
 </div>
 
-## ▣ Project log
+## 🗺️ The map
 
-This section will grow as real work is added. Each case study should include the problem, intended audience, design decisions, iterations, and what was learned.
+As real work gets added, this section will link to design explorations and case studies. Each entry should explain the challenge, intended user, choices made, and lessons learned.
 
-- [ ] First interface teardown
-- [ ] First wireframe or user flow
-- [ ] First clickable prototype
-- [ ] Notes from usability feedback
+- [ ] Interface teardown
+- [ ] User flow or wireframe
+- [ ] Clickable prototype
+- [ ] Feedback and iteration notes
 
-## ⟡ Find me
+## 💾 Save point
 
-- **GitHub:** [@karanpatil03](https://github.com/karanpatil03)
+- **Player:** [@karanpatil03](https://github.com/karanpatil03)
+- **Repository:** [UIUX](https://github.com/karanpatil03/UIUX)
 
 ---
 
 <div align="center">
 
-<sub>DESIGNED WITH CURIOSITY · BUILT THROUGH PRACTICE</sub>
+**PRESS START**
+
+<sub>SMALL BUILDS · NEW SKILLS · NEXT LEVEL</sub>
 
 </div>
