@@ -1,50 +1,67 @@
 <!--
-  UIUX — minimal monochrome README
-  Built with standard GitHub Markdown; no custom CSS required.
+  UIUX — neon studio theme
+  Uses GitHub-compatible Markdown, HTML, a local SVG banner, and shields.io badges.
 -->
 
 <div align="center">
 
-# UIUX
-
-### A space for learning, exploring, and documenting UI/UX design.
-
-*Observe. Design. Iterate.*
+<img src="./assets/neon-banner.svg" alt="Karan Patil — Curious by design" width="100%"/>
 
 <br/>
 
-![Status](https://img.shields.io/badge/status-learning-8B949E?style=flat-square&labelColor=161B22)
-![Focus](https://img.shields.io/badge/focus-UI%2FUX-8B949E?style=flat-square&labelColor=161B22)
+### A design playground for ideas, interfaces, and experiments.
+
+[![Focus](https://img.shields.io/badge/FOCUS-UI%2FUX-22D3EE?style=for-the-badge&labelColor=111827)](https://github.com/karanpatil03/UIUX)
+[![Status](https://img.shields.io/badge/STATUS-LEARNING-A78BFA?style=for-the-badge&labelColor=111827)](https://github.com/karanpatil03/UIUX)
+
+**Observe → Explore → Prototype → Refine**
 
 </div>
 
 ---
 
-## About
+## ◈ The studio
 
-This repository is a workspace for UI/UX exploration. It can grow to include design exercises, interface studies, wireframes, prototypes, and notes from the design process.
+This repository is a growing workspace for exploring user interfaces and user experiences. It is intended for design practice, interface breakdowns, wireframes, prototypes, and notes about the decisions behind a design.
 
-## What you'll find here
+> Learning in public. Improving one iteration at a time.
 
-- **Exploration** — ideas, references, and interface observations
-- **Practice** — wireframes, layouts, and small design experiments
-- **Process** — notes on decisions, usability, and iteration
+## ⌘ Current direction
 
-> This README describes the intended workspace; add links and details as real work is published.
+| Track | What it means |
+|:--|:--|
+| **Interface studies** | Notice layout, hierarchy, spacing, and visual patterns |
+| **UX thinking** | Ask what a user needs to do and where friction appears |
+| **Prototyping** | Turn ideas into flows and screen concepts |
+| **Reflection** | Record what worked, what didn't, and what to try next |
 
-## Design principles
+## ✳ Design principles
 
-| Principle | In practice |
-| --- | --- |
-| Clarity | Make the purpose of each screen easy to understand |
-| Consistency | Reuse patterns and keep interactions predictable |
-| Accessibility | Consider readable contrast, labels, and keyboard use |
-| Iteration | Test ideas, learn, and refine |
+<div align="center">
+
+| CLARITY | CONSISTENCY | ACCESSIBILITY | ITERATION |
+|:---:|:---:|:---:|:---:|
+| Make the next step obvious | Reuse familiar patterns | Design for more people | Test, learn, refine |
+
+</div>
+
+## ▣ Project log
+
+This section will grow as real work is added. Each case study should include the problem, intended audience, design decisions, iterations, and what was learned.
+
+- [ ] First interface teardown
+- [ ] First wireframe or user flow
+- [ ] First clickable prototype
+- [ ] Notes from usability feedback
+
+## ⟡ Find me
+
+- **GitHub:** [@karanpatil03](https://github.com/karanpatil03)
 
 ---
 
 <div align="center">
 
-<sub>Built thoughtfully · Improved continuously</sub>
+<sub>DESIGNED WITH CURIOSITY · BUILT THROUGH PRACTICE</sub>
 
 </div>
